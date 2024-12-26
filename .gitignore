@@ -1,0 +1,6 @@
+audio_after
+audio_before
+.venv
+.idea
+ffmpeg.exe
+ffprobe.exe
